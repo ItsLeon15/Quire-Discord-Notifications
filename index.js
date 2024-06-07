@@ -7,7 +7,7 @@ const axios = require('axios');
 // Get these values in https://quire.io/apps/dev
 const clientID = '';
 const clientSecret = '';
-const redirectURI = 'http://uk.platinumhost.xyz:24002/callback';
+const redirectURI = 'http://localhost:24002/callback';
 
 // Set this from your Discord Channel
 const discordWebhookUrl = '';
